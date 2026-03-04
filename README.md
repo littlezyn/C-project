@@ -15,7 +15,7 @@ It is designed to be easy to compile and run using standard tools like gcc, g++,
 # 🗂 Project Structure
 
 ```
-├── C/C++                # Source code directory (C/C++ files)
+├── Cpp/               # Source code directory (C/C++ files)
 ├── Makefile             # Build instructions
 └── README.md            # This documentation
 ```
