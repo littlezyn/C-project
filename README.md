@@ -1,7 +1,7 @@
 # C-Project
 
 A simple C/C++ project. 
-* to clone this repository.
+* To clone this repository.
 ```
 https://github.com/littlezyn/C-project.git
 ```
