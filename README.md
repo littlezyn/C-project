@@ -17,7 +17,7 @@ It is designed to be easy to compile and run using standard tools like gcc, g++,
 ```
 ├── Cpp/                 # Source code directory (C/C++ files)
 ├── .config              # Tips for C/C++ files
-├── Makefile             # Build instructions
+├── Requirements.md      # requirements for C/C++
 └── README.md            # This documentation
 ```
 # 🛠️ Prerequisites
