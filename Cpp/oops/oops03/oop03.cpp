@@ -45,6 +45,7 @@ int main()
 {
     Final a("ABC School", 500, 430);
     a.output();
+    return 0;
 }
 //end of the program
 //the output will be

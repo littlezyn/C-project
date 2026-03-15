@@ -46,6 +46,7 @@ int main()
 {
     Final a("Toyota", "Jonh", 60000);
     a.output();
+    return 0;
 }
 // end of the program
 // output

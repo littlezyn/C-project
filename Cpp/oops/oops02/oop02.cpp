@@ -22,6 +22,7 @@ public:
 int main(){
     car c1(130,"Toyota");
     c1.drive();
+    return 0;
 }
 //end of the program.
 // at the end both constructor and destroyer will run,
