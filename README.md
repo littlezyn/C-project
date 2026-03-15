@@ -6,7 +6,7 @@ A simple C/C++ project.
 
 This repository contains a C/C++ project that demonstrates briefly describe main functionality — e.g., “various algorithms implemented in C++”, “basic console utility” or “course work project”.
 
-It is designed to be easy to compile and run using standard tools like gcc, g++, or a Makefile. This README will help you set up, build, and understand how the project is organized.
+It is designed to be easy to compile and run using standard tools like gcc, g++. This README will help you set up, build, and understand how the project is organized.
 
 # 🗂 Project Structure
 
