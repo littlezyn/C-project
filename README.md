@@ -23,6 +23,21 @@ It is designed to be easy to compile and run using standard tools like gcc, g++,
 ├── Requirements.md      # Requirements for C/C++
 └── README.md            # This documentation
 ```
+# 🚀 Build & Installation
+Using Install.sh (recommended for linux user)
+
+Open a terminal .
+
+1. Make it executable
+```
+chmod +x Install.sh
+```
+2. Run it
+```
+sudo ./Install.sh
+```
+This will install the resorces for C/C++.
+
 # 🛠️ Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
